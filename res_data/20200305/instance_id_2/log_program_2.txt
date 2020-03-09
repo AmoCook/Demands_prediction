@@ -1,0 +1,1365 @@
+Day 20200305 instance 2_file dictionary has been created! 
+Day 20200305 instance 2 region 0 traiming models is starting ! 
+Day 20200305 instance 2 region 0 training models has finished, and cost time of training models: 25.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 0 has finished! 
+Day 20200305 instance 2 region 1 traiming models is starting ! 
+Day 20200305 instance 2 region 1 training models has finished, and cost time of training models: 19.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 1 has finished! 
+Day 20200305 instance 2 region 2 traiming models is starting ! 
+Day 20200305 instance 2 region 2 training models has finished, and cost time of training models: 36.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 2 has finished! 
+Day 20200305 instance 2 region 3 traiming models is starting ! 
+Day 20200305 instance 2 region 3 training models has finished, and cost time of training models: 29.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 3 has finished! 
+Day 20200305 instance 2 region 4 traiming models is starting ! 
+Day 20200305 instance 2 region 4 training models has finished, and cost time of training models: 17.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 4 has finished! 
+Day 20200305 instance 2 region 5 traiming models is starting ! 
+Day 20200305 instance 2 region 5 training models has finished, and cost time of training models: 22.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 5 has finished! 
+Day 20200305 instance 2 region 6 traiming models is starting ! 
+Day 20200305 instance 2 region 6 training models has finished, and cost time of training models: 16.0s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 6 has finished! 
+Day 20200305 instance 2 region 7 traiming models is starting ! 
+Day 20200305 instance 2 region 7 training models has finished, and cost time of training models: 13.5s 
+start top selection! 
+start cluster! 
+Day 20200305 instance 2 region 0 traiming models is starting ! 
+Day 20200305 instance 2 region 0 training models has finished, and cost time of training models: 25.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 0 has finished! 
+Day 20200305 instance 2 region 1 traiming models is starting ! 
+Day 20200305 instance 2 region 1 training models has finished, and cost time of training models: 19.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 1 has finished! 
+Day 20200305 instance 2 region 2 traiming models is starting ! 
+Day 20200305 instance 2 region 2 training models has finished, and cost time of training models: 36.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 2 has finished! 
+Day 20200305 instance 2 region 3 traiming models is starting ! 
+Day 20200305 instance 2 region 3 training models has finished, and cost time of training models: 28.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 3 has finished! 
+Day 20200305 instance 2 region 4 traiming models is starting ! 
+Day 20200305 instance 2 region 4 training models has finished, and cost time of training models: 16.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 4 has finished! 
+Day 20200305 instance 2 region 5 traiming models is starting ! 
+Day 20200305 instance 2 region 5 training models has finished, and cost time of training models: 22.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 5 has finished! 
+Day 20200305 instance 2 region 6 traiming models is starting ! 
+Day 20200305 instance 2 region 6 training models has finished, and cost time of training models: 15.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 6 has finished! 
+Day 20200305 instance 2 region 7 traiming models is starting ! 
+Day 20200305 instance 2 region 7 training models has finished, and cost time of training models: 13.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 7 has finished! 
+Day 20200305 instance 2 region 8 traiming models is starting ! 
+Day 20200305 instance 2 region 8 training models has finished, and cost time of training models: 18.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 8 has finished! 
+Day 20200305 instance 2 region 9 traiming models is starting ! 
+Day 20200305 instance 2 region 9 training models has finished, and cost time of training models: 16.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 9 has finished! 
+Day 20200305 instance 2 region 10 traiming models is starting ! 
+Day 20200305 instance 2 region 10 training models has finished, and cost time of training models: 24.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 10 has finished! 
+Day 20200305 instance 2 region 11 traiming models is starting ! 
+Day 20200305 instance 2 region 11 training models has finished, and cost time of training models: 11.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 11 has finished! 
+Day 20200305 instance 2 region 12 traiming models is starting ! 
+Day 20200305 instance 2 region 12 training models has finished, and cost time of training models: 16.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 12 has finished! 
+Day 20200305 instance 2 region 13 traiming models is starting ! 
+Day 20200305 instance 2 region 13 training models has finished, and cost time of training models: 17.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 13 has finished! 
+Day 20200305 instance 2 region 14 traiming models is starting ! 
+Day 20200305 instance 2 region 14 training models has finished, and cost time of training models: 26.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 14 has finished! 
+Day 20200305 instance 2 region 15 traiming models is starting ! 
+Day 20200305 instance 2 region 15 training models has finished, and cost time of training models: 18.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 15 has finished! 
+Day 20200305 instance 2 region 16 traiming models is starting ! 
+Day 20200305 instance 2 region 16 training models has finished, and cost time of training models: 22.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 16 has finished! 
+Day 20200305 instance 2 region 17 traiming models is starting ! 
+Day 20200305 instance 2 region 17 training models has finished, and cost time of training models: 40.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 17 has finished! 
+Day 20200305 instance 2 region 18 traiming models is starting ! 
+Day 20200305 instance 2 region 18 training models has finished, and cost time of training models: 81.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 18 has finished! 
+Day 20200305 instance 2 region 19 traiming models is starting ! 
+Day 20200305 instance 2 region 19 training models has finished, and cost time of training models: 14.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 19 has finished! 
+Day 20200305 instance 2 region 20 traiming models is starting ! 
+Day 20200305 instance 2 region 20 training models has finished, and cost time of training models: 35.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 20 has finished! 
+Day 20200305 instance 2 region 21 traiming models is starting ! 
+Day 20200305 instance 2 region 21 training models has finished, and cost time of training models: 19.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 21 has finished! 
+Day 20200305 instance 2 region 22 traiming models is starting ! 
+Day 20200305 instance 2 region 22 training models has finished, and cost time of training models: 14.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 22 has finished! 
+Day 20200305 instance 2 region 23 traiming models is starting ! 
+Day 20200305 instance 2 region 23 training models has finished, and cost time of training models: 13.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 23 has finished! 
+Day 20200305 instance 2 region 24 traiming models is starting ! 
+Day 20200305 instance 2 region 24 training models has finished, and cost time of training models: 20.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 24 has finished! 
+Day 20200305 instance 2 region 25 traiming models is starting ! 
+Day 20200305 instance 2 region 25 training models has finished, and cost time of training models: 17.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 25 has finished! 
+Day 20200305 instance 2 region 26 traiming models is starting ! 
+Day 20200305 instance 2 region 26 training models has finished, and cost time of training models: 14.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 26 has finished! 
+Day 20200305 instance 2 region 27 traiming models is starting ! 
+Day 20200305 instance 2 region 27 training models has finished, and cost time of training models: 22.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 27 has finished! 
+Day 20200305 instance 2 region 28 traiming models is starting ! 
+Day 20200305 instance 2 region 28 training models has finished, and cost time of training models: 12.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 28 has finished! 
+Day 20200305 instance 2 region 29 traiming models is starting ! 
+Day 20200305 instance 2 region 29 training models has finished, and cost time of training models: 27.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 29 has finished! 
+Day 20200305 instance 2 region 30 traiming models is starting ! 
+Day 20200305 instance 2 region 30 training models has finished, and cost time of training models: 22.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 30 has finished! 
+Day 20200305 instance 2 region 31 traiming models is starting ! 
+Day 20200305 instance 2 region 31 training models has finished, and cost time of training models: 13.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 31 has finished! 
+Day 20200305 instance 2 region 32 traiming models is starting ! 
+Day 20200305 instance 2 region 32 training models has finished, and cost time of training models: 17.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 32 has finished! 
+Day 20200305 instance 2 region 33 traiming models is starting ! 
+Day 20200305 instance 2 region 33 training models has finished, and cost time of training models: 23.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 33 has finished! 
+Day 20200305 instance 2 region 34 traiming models is starting ! 
+Day 20200305 instance 2 region 34 training models has finished, and cost time of training models: 20.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 34 has finished! 
+Day 20200305 instance 2 region 35 traiming models is starting ! 
+Day 20200305 instance 2 region 35 training models has finished, and cost time of training models: 32.0s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 35 has finished! 
+Day 20200305 instance 2 region 36 traiming models is starting ! 
+Day 20200305 instance 2 region 36 training models has finished, and cost time of training models: 18.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 36 has finished! 
+Day 20200305 instance 2 region 37 traiming models is starting ! 
+Day 20200305 instance 2 region 37 training models has finished, and cost time of training models: 14.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 37 has finished! 
+Day 20200305 instance 2 region 38 traiming models is starting ! 
+Day 20200305 instance 2 region 38 training models has finished, and cost time of training models: 22.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 38 has finished! 
+Day 20200305 instance 2 region 39 traiming models is starting ! 
+Day 20200305 instance 2 region 39 training models has finished, and cost time of training models: 17.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 39 has finished! 
+Day 20200305 instance 2 region 40 traiming models is starting ! 
+Day 20200305 instance 2 region 40 training models has finished, and cost time of training models: 14.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 40 has finished! 
+Day 20200305 instance 2 region 41 traiming models is starting ! 
+Day 20200305 instance 2 region 41 training models has finished, and cost time of training models: 23.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 41 has finished! 
+Day 20200305 instance 2 region 42 traiming models is starting ! 
+Day 20200305 instance 2 region 42 training models has finished, and cost time of training models: 12.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 42 has finished! 
+Day 20200305 instance 2 region 43 traiming models is starting ! 
+Day 20200305 instance 2 region 43 training models has finished, and cost time of training models: 20.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 43 has finished! 
+Day 20200305 instance 2 region 44 traiming models is starting ! 
+Day 20200305 instance 2 region 44 training models has finished, and cost time of training models: 19.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 44 has finished! 
+Day 20200305 instance 2 region 45 traiming models is starting ! 
+Day 20200305 instance 2 region 45 training models has finished, and cost time of training models: 22.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 45 has finished! 
+Day 20200305 instance 2 region 46 traiming models is starting ! 
+Day 20200305 instance 2 region 46 training models has finished, and cost time of training models: 11.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 46 has finished! 
+Day 20200305 instance 2 region 47 traiming models is starting ! 
+Day 20200305 instance 2 region 47 training models has finished, and cost time of training models: 25.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 47 has finished! 
+Day 20200305 instance 2 region 48 traiming models is starting ! 
+Day 20200305 instance 2 region 48 training models has finished, and cost time of training models: 30.0s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 48 has finished! 
+Day 20200305 instance 2 region 49 traiming models is starting ! 
+Day 20200305 instance 2 region 49 training models has finished, and cost time of training models: 13.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 49 has finished! 
+Day 20200305 instance 2 region 50 traiming models is starting ! 
+Day 20200305 instance 2 region 50 training models has finished, and cost time of training models: 17.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 50 has finished! 
+Day 20200305 instance 2 region 51 traiming models is starting ! 
+Day 20200305 instance 2 region 51 training models has finished, and cost time of training models: 15.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 51 has finished! 
+Day 20200305 instance 2 region 52 traiming models is starting ! 
+Day 20200305 instance 2 region 52 training models has finished, and cost time of training models: 18.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 52 has finished! 
+Day 20200305 instance 2 region 53 traiming models is starting ! 
+Day 20200305 instance 2 region 53 training models has finished, and cost time of training models: 14.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 53 has finished! 
+Day 20200305 instance 2 region 54 traiming models is starting ! 
+Day 20200305 instance 2 region 54 training models has finished, and cost time of training models: 18.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 54 has finished! 
+Day 20200305 instance 2 region 55 traiming models is starting ! 
+Day 20200305 instance 2 region 55 training models has finished, and cost time of training models: 10.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 55 has finished! 
+Day 20200305 instance 2 region 56 traiming models is starting ! 
+Day 20200305 instance 2 region 56 training models has finished, and cost time of training models: 11.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 56 has finished! 
+Day 20200305 instance 2 region 57 traiming models is starting ! 
+Day 20200305 instance 2 region 57 training models has finished, and cost time of training models: 26.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 57 has finished! 
+Day 20200305 instance 2 region 58 traiming models is starting ! 
+Day 20200305 instance 2 region 58 training models has finished, and cost time of training models: 27.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 58 has finished! 
+Day 20200305 instance 2 region 59 traiming models is starting ! 
+Day 20200305 instance 2 region 59 training models has finished, and cost time of training models: 16.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 59 has finished! 
+Day 20200305 instance 2 region 60 traiming models is starting ! 
+Day 20200305 instance 2 region 60 training models has finished, and cost time of training models: 14.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 60 has finished! 
+Day 20200305 instance 2 region 61 traiming models is starting ! 
+Day 20200305 instance 2 region 61 training models has finished, and cost time of training models: 13.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 61 has finished! 
+Day 20200305 instance 2 region 62 traiming models is starting ! 
+Day 20200305 instance 2 region 62 training models has finished, and cost time of training models: 19.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 62 has finished! 
+Day 20200305 instance 2 region 63 traiming models is starting ! 
+Day 20200305 instance 2 region 63 training models has finished, and cost time of training models: 25.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 63 has finished! 
+Day 20200305 instance 2 region 64 traiming models is starting ! 
+Day 20200305 instance 2 region 64 training models has finished, and cost time of training models: 18.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 64 has finished! 
+Day 20200305 instance 2 region 65 traiming models is starting ! 
+Day 20200305 instance 2 region 65 training models has finished, and cost time of training models: 15.0s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 65 has finished! 
+Day 20200305 instance 2 region 66 traiming models is starting ! 
+Day 20200305 instance 2 region 66 training models has finished, and cost time of training models: 13.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 66 has finished! 
+Day 20200305 instance 2 region 67 traiming models is starting ! 
+Day 20200305 instance 2 region 67 training models has finished, and cost time of training models: 13.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 67 has finished! 
+Day 20200305 instance 2 region 68 traiming models is starting ! 
+Day 20200305 instance 2 region 68 training models has finished, and cost time of training models: 20.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 68 has finished! 
+Day 20200305 instance 2 region 69 traiming models is starting ! 
+Day 20200305 instance 2 region 69 training models has finished, and cost time of training models: 12.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 69 has finished! 
+Day 20200305 instance 2 region 70 traiming models is starting ! 
+Day 20200305 instance 2 region 70 training models has finished, and cost time of training models: 19.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 70 has finished! 
+Day 20200305 instance 2 region 71 traiming models is starting ! 
+Day 20200305 instance 2 region 71 training models has finished, and cost time of training models: 37.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 71 has finished! 
+Day 20200305 instance 2 region 72 traiming models is starting ! 
+Day 20200305 instance 2 region 72 training models has finished, and cost time of training models: 16.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 72 has finished! 
+Day 20200305 instance 2 region 73 traiming models is starting ! 
+Day 20200305 instance 2 region 73 training models has finished, and cost time of training models: 15.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 73 has finished! 
+Day 20200305 instance 2 region 74 traiming models is starting ! 
+Day 20200305 instance 2 region 74 training models has finished, and cost time of training models: 13.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 74 has finished! 
+Day 20200305 instance 2 region 75 traiming models is starting ! 
+Day 20200305 instance 2 region 75 training models has finished, and cost time of training models: 16.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 75 has finished! 
+Day 20200305 instance 2 region 76 traiming models is starting ! 
+Day 20200305 instance 2 region 76 training models has finished, and cost time of training models: 15.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 76 has finished! 
+Day 20200305 instance 2 region 77 traiming models is starting ! 
+Day 20200305 instance 2 region 77 training models has finished, and cost time of training models: 18.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 77 has finished! 
+Day 20200305 instance 2 region 78 traiming models is starting ! 
+Day 20200305 instance 2 region 78 training models has finished, and cost time of training models: 12.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 78 has finished! 
+Day 20200305 instance 2 region 79 traiming models is starting ! 
+Day 20200305 instance 2 region 79 training models has finished, and cost time of training models: 19.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 79 has finished! 
+Day 20200305 instance 2 region 80 traiming models is starting ! 
+Day 20200305 instance 2 region 80 training models has finished, and cost time of training models: 40.0s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 80 has finished! 
+Day 20200305 instance 2 region 81 traiming models is starting ! 
+Day 20200305 instance 2 region 81 training models has finished, and cost time of training models: 14.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 81 has finished! 
+Day 20200305 instance 2 region 82 traiming models is starting ! 
+Day 20200305 instance 2 region 82 training models has finished, and cost time of training models: 21.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 82 has finished! 
+Day 20200305 instance 2 region 83 traiming models is starting ! 
+Day 20200305 instance 2 region 83 training models has finished, and cost time of training models: 12.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 83 has finished! 
+Day 20200305 instance 2 region 84 traiming models is starting ! 
+Day 20200305 instance 2 region 84 training models has finished, and cost time of training models: 26.0s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 84 has finished! 
+Day 20200305 instance 2 region 85 traiming models is starting ! 
+Day 20200305 instance 2 region 85 training models has finished, and cost time of training models: 25.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 85 has finished! 
+Day 20200305 instance 2 region 86 traiming models is starting ! 
+Day 20200305 instance 2 region 86 training models has finished, and cost time of training models: 26.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 86 has finished! 
+Day 20200305 instance 2 region 87 traiming models is starting ! 
+Day 20200305 instance 2 region 87 training models has finished, and cost time of training models: 20.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 87 has finished! 
+Day 20200305 instance 2 region 88 traiming models is starting ! 
+Day 20200305 instance 2 region 88 training models has finished, and cost time of training models: 22.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 88 has finished! 
+Day 20200305 instance 2 region 89 traiming models is starting ! 
+Day 20200305 instance 2 region 89 training models has finished, and cost time of training models: 19.0s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 89 has finished! 
+Day 20200305 instance 2 region 90 traiming models is starting ! 
+Day 20200305 instance 2 region 90 training models has finished, and cost time of training models: 27.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 90 has finished! 
+Day 20200305 instance 2 region 91 traiming models is starting ! 
+Day 20200305 instance 2 region 91 training models has finished, and cost time of training models: 22.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 91 has finished! 
+Day 20200305 instance 2 region 92 traiming models is starting ! 
+Day 20200305 instance 2 region 92 training models has finished, and cost time of training models: 30.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 92 has finished! 
+Day 20200305 instance 2 region 93 traiming models is starting ! 
+Day 20200305 instance 2 region 93 training models has finished, and cost time of training models: 49.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 93 has finished! 
+Day 20200305 instance 2 region 94 traiming models is starting ! 
+Day 20200305 instance 2 region 94 training models has finished, and cost time of training models: 35.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 94 has finished! 
+Day 20200305 instance 2 region 95 traiming models is starting ! 
+Day 20200305 instance 2 region 95 training models has finished, and cost time of training models: 44.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 95 has finished! 
+Day 20200305 instance 2 region 96 traiming models is starting ! 
+Day 20200305 instance 2 region 96 training models has finished, and cost time of training models: 24.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 96 has finished! 
+Day 20200305 instance 2 region 97 traiming models is starting ! 
+Day 20200305 instance 2 region 97 training models has finished, and cost time of training models: 34.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 97 has finished! 
+Day 20200305 instance 2 region 98 traiming models is starting ! 
+Day 20200305 instance 2 region 98 training models has finished, and cost time of training models: 20.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 98 has finished! 
+Day 20200305 instance 2 region 99 traiming models is starting ! 
+Day 20200305 instance 2 region 99 training models has finished, and cost time of training models: 20.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 99 has finished! 
+Day 20200305 instance 2 region 100 traiming models is starting ! 
+Day 20200305 instance 2 region 100 training models has finished, and cost time of training models: 17.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 100 has finished! 
+Day 20200305 instance 2 region 101 traiming models is starting ! 
+Day 20200305 instance 2 region 101 training models has finished, and cost time of training models: 15.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 101 has finished! 
+Day 20200305 instance 2 region 102 traiming models is starting ! 
+Day 20200305 instance 2 region 102 training models has finished, and cost time of training models: 14.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 102 has finished! 
+Day 20200305 instance 2 region 103 traiming models is starting ! 
+Day 20200305 instance 2 region 103 training models has finished, and cost time of training models: 16.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 103 has finished! 
+Day 20200305 instance 2 region 104 traiming models is starting ! 
+Day 20200305 instance 2 region 104 training models has finished, and cost time of training models: 18.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 104 has finished! 
+Day 20200305 instance 2 region 105 traiming models is starting ! 
+Day 20200305 instance 2 region 105 training models has finished, and cost time of training models: 30.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 105 has finished! 
+Day 20200305 instance 2 region 106 traiming models is starting ! 
+Day 20200305 instance 2 region 106 training models has finished, and cost time of training models: 51.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 106 has finished! 
+Day 20200305 instance 2 region 107 traiming models is starting ! 
+Day 20200305 instance 2 region 107 training models has finished, and cost time of training models: 27.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 107 has finished! 
+Day 20200305 instance 2 region 108 traiming models is starting ! 
+Day 20200305 instance 2 region 108 training models has finished, and cost time of training models: 16.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 108 has finished! 
+Day 20200305 instance 2 region 109 traiming models is starting ! 
+Day 20200305 instance 2 region 109 training models has finished, and cost time of training models: 17.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 109 has finished! 
+Day 20200305 instance 2 region 110 traiming models is starting ! 
+Day 20200305 instance 2 region 110 training models has finished, and cost time of training models: 25.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 110 has finished! 
+Day 20200305 instance 2 region 111 traiming models is starting ! 
+Day 20200305 instance 2 region 111 training models has finished, and cost time of training models: 32.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 111 has finished! 
+Day 20200305 instance 2 region 112 traiming models is starting ! 
+Day 20200305 instance 2 region 112 training models has finished, and cost time of training models: 13.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 112 has finished! 
+Day 20200305 instance 2 region 113 traiming models is starting ! 
+Day 20200305 instance 2 region 113 training models has finished, and cost time of training models: 20.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 113 has finished! 
+Day 20200305 instance 2 region 114 traiming models is starting ! 
+Day 20200305 instance 2 region 114 training models has finished, and cost time of training models: 16.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 114 has finished! 
+Day 20200305 instance 2 region 115 traiming models is starting ! 
+Day 20200305 instance 2 region 115 training models has finished, and cost time of training models: 18.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 115 has finished! 
+Day 20200305 instance 2 region 116 traiming models is starting ! 
+Day 20200305 instance 2 region 116 training models has finished, and cost time of training models: 21.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 116 has finished! 
+Day 20200305 instance 2 region 117 traiming models is starting ! 
+Day 20200305 instance 2 region 117 training models has finished, and cost time of training models: 20.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 117 has finished! 
+Day 20200305 instance 2 region 118 traiming models is starting ! 
+Day 20200305 instance 2 region 118 training models has finished, and cost time of training models: 15.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 118 has finished! 
+Day 20200305 instance 2 region 119 traiming models is starting ! 
+Day 20200305 instance 2 region 119 training models has finished, and cost time of training models: 12.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 119 has finished! 
+Day 20200305 instance 2 region 120 traiming models is starting ! 
+Day 20200305 instance 2 region 120 training models has finished, and cost time of training models: 47.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 120 has finished! 
+Day 20200305 instance 2 region 121 traiming models is starting ! 
+Day 20200305 instance 2 region 121 training models has finished, and cost time of training models: 10.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 121 has finished! 
+Day 20200305 instance 2 region 122 traiming models is starting ! 
+Day 20200305 instance 2 region 122 training models has finished, and cost time of training models: 32.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 122 has finished! 
+Day 20200305 instance 2 region 123 traiming models is starting ! 
+Day 20200305 instance 2 region 123 training models has finished, and cost time of training models: 43.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 123 has finished! 
+Day 20200305 instance 2 region 124 traiming models is starting ! 
+Day 20200305 instance 2 region 124 training models has finished, and cost time of training models: 40.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 124 has finished! 
+Day 20200305 instance 2 region 125 traiming models is starting ! 
+Day 20200305 instance 2 region 125 training models has finished, and cost time of training models: 14.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 125 has finished! 
+Day 20200305 instance 2 region 126 traiming models is starting ! 
+Day 20200305 instance 2 region 126 training models has finished, and cost time of training models: 14.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 126 has finished! 
+Day 20200305 instance 2 region 127 traiming models is starting ! 
+Day 20200305 instance 2 region 127 training models has finished, and cost time of training models: 15.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 127 has finished! 
+Day 20200305 instance 2 region 128 traiming models is starting ! 
+Day 20200305 instance 2 region 128 training models has finished, and cost time of training models: 19.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 128 has finished! 
+Day 20200305 instance 2 region 129 traiming models is starting ! 
+Day 20200305 instance 2 region 129 training models has finished, and cost time of training models: 11.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 129 has finished! 
+Day 20200305 instance 2 region 130 traiming models is starting ! 
+Day 20200305 instance 2 region 130 training models has finished, and cost time of training models: 11.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 130 has finished! 
+Day 20200305 instance 2 region 131 traiming models is starting ! 
+Day 20200305 instance 2 region 131 training models has finished, and cost time of training models: 21.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 131 has finished! 
+Day 20200305 instance 2 region 132 traiming models is starting ! 
+Day 20200305 instance 2 region 132 training models has finished, and cost time of training models: 15.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 132 has finished! 
+Day 20200305 instance 2 region 133 traiming models is starting ! 
+Day 20200305 instance 2 region 133 training models has finished, and cost time of training models: 18.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 133 has finished! 
+Day 20200305 instance 2 region 134 traiming models is starting ! 
+Day 20200305 instance 2 region 134 training models has finished, and cost time of training models: 24.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 134 has finished! 
+Day 20200305 instance 2 region 135 traiming models is starting ! 
+Day 20200305 instance 2 region 135 training models has finished, and cost time of training models: 23.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 135 has finished! 
+Day 20200305 instance 2 region 136 traiming models is starting ! 
+Day 20200305 instance 2 region 136 training models has finished, and cost time of training models: 15.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 136 has finished! 
+Day 20200305 instance 2 region 137 traiming models is starting ! 
+Day 20200305 instance 2 region 137 training models has finished, and cost time of training models: 18.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 137 has finished! 
+Day 20200305 instance 2 region 138 traiming models is starting ! 
+Day 20200305 instance 2 region 138 training models has finished, and cost time of training models: 13.0s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 138 has finished! 
+Day 20200305 instance 2 region 139 traiming models is starting ! 
+Day 20200305 instance 2 region 139 training models has finished, and cost time of training models: 19.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 139 has finished! 
+Day 20200305 instance 2 region 140 traiming models is starting ! 
+Day 20200305 instance 2 region 140 training models has finished, and cost time of training models: 26.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 140 has finished! 
+Day 20200305 instance 2 region 141 traiming models is starting ! 
+Day 20200305 instance 2 region 141 training models has finished, and cost time of training models: 27.0s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 141 has finished! 
+Day 20200305 instance 2 region 142 traiming models is starting ! 
+Day 20200305 instance 2 region 142 training models has finished, and cost time of training models: 16.0s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 142 has finished! 
+Day 20200305 instance 2 region 143 traiming models is starting ! 
+Day 20200305 instance 2 region 143 training models has finished, and cost time of training models: 11.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 143 has finished! 
+Day 20200305 instance 2 region 144 traiming models is starting ! 
+Day 20200305 instance 2 region 144 training models has finished, and cost time of training models: 11.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 144 has finished! 
+Day 20200305 instance 2 region 145 traiming models is starting ! 
+Day 20200305 instance 2 region 145 training models has finished, and cost time of training models: 10.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 145 has finished! 
+Day 20200305 instance 2 region 146 traiming models is starting ! 
+Day 20200305 instance 2 region 146 training models has finished, and cost time of training models: 18.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 146 has finished! 
+Day 20200305 instance 2 region 147 traiming models is starting ! 
+Day 20200305 instance 2 region 147 training models has finished, and cost time of training models: 16.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 147 has finished! 
+Day 20200305 instance 2 region 148 traiming models is starting ! 
+Day 20200305 instance 2 region 148 training models has finished, and cost time of training models: 19.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 148 has finished! 
+Day 20200305 instance 2 region 149 traiming models is starting ! 
+Day 20200305 instance 2 region 149 training models has finished, and cost time of training models: 19.0s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 149 has finished! 
+Day 20200305 instance 2 region 150 traiming models is starting ! 
+Day 20200305 instance 2 region 150 training models has finished, and cost time of training models: 56.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 150 has finished! 
+Day 20200305 instance 2 region 151 traiming models is starting ! 
+Day 20200305 instance 2 region 151 training models has finished, and cost time of training models: 33.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 151 has finished! 
+Day 20200305 instance 2 region 152 traiming models is starting ! 
+Day 20200305 instance 2 region 152 training models has finished, and cost time of training models: 61.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 152 has finished! 
+Day 20200305 instance 2 region 153 traiming models is starting ! 
+Day 20200305 instance 2 region 153 training models has finished, and cost time of training models: 17.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 153 has finished! 
+Day 20200305 instance 2 region 154 traiming models is starting ! 
+Day 20200305 instance 2 region 154 training models has finished, and cost time of training models: 13.0s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 154 has finished! 
+Day 20200305 instance 2 region 155 traiming models is starting ! 
+Day 20200305 instance 2 region 155 training models has finished, and cost time of training models: 17.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 155 has finished! 
+Day 20200305 instance 2 region 156 traiming models is starting ! 
+Day 20200305 instance 2 region 156 training models has finished, and cost time of training models: 29.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 156 has finished! 
+Day 20200305 instance 2 region 157 traiming models is starting ! 
+Day 20200305 instance 2 region 157 training models has finished, and cost time of training models: 12.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 157 has finished! 
+Day 20200305 instance 2 region 158 traiming models is starting ! 
+Day 20200305 instance 2 region 158 training models has finished, and cost time of training models: 18.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 158 has finished! 
+Day 20200305 instance 2 region 159 traiming models is starting ! 
+Day 20200305 instance 2 region 159 training models has finished, and cost time of training models: 77.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 159 has finished! 
+Day 20200305 instance 2 region 160 traiming models is starting ! 
+Day 20200305 instance 2 region 160 training models has finished, and cost time of training models: 48.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 160 has finished! 
+Day 20200305 instance 2 region 161 traiming models is starting ! 
+Day 20200305 instance 2 region 161 training models has finished, and cost time of training models: 17.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 161 has finished! 
+Day 20200305 instance 2 region 162 traiming models is starting ! 
+Day 20200305 instance 2 region 162 training models has finished, and cost time of training models: 13.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 162 has finished! 
+Day 20200305 instance 2 region 163 traiming models is starting ! 
+Day 20200305 instance 2 region 163 training models has finished, and cost time of training models: 14.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 163 has finished! 
+Day 20200305 instance 2 region 164 traiming models is starting ! 
+Day 20200305 instance 2 region 164 training models has finished, and cost time of training models: 18.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 164 has finished! 
+Day 20200305 instance 2 region 165 traiming models is starting ! 
+Day 20200305 instance 2 region 165 training models has finished, and cost time of training models: 20.4s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 165 has finished! 
+Day 20200305 instance 2 region 166 traiming models is starting ! 
+Day 20200305 instance 2 region 166 training models has finished, and cost time of training models: 17.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 166 has finished! 
+Day 20200305 instance 2 region 167 traiming models is starting ! 
+Day 20200305 instance 2 region 167 training models has finished, and cost time of training models: 11.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 167 has finished! 
+Day 20200305 instance 2 region 168 traiming models is starting ! 
+Day 20200305 instance 2 region 168 training models has finished, and cost time of training models: 18.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 168 has finished! 
+Day 20200305 instance 2 region 169 traiming models is starting ! 
+Day 20200305 instance 2 region 169 training models has finished, and cost time of training models: 16.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 169 has finished! 
+Day 20200305 instance 2 region 170 traiming models is starting ! 
+Day 20200305 instance 2 region 170 training models has finished, and cost time of training models: 13.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 170 has finished! 
+Day 20200305 instance 2 region 171 traiming models is starting ! 
+Day 20200305 instance 2 region 171 training models has finished, and cost time of training models: 14.1s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 171 has finished! 
+Day 20200305 instance 2 region 172 traiming models is starting ! 
+Day 20200305 instance 2 region 172 training models has finished, and cost time of training models: 14.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 172 has finished! 
+Day 20200305 instance 2 region 173 traiming models is starting ! 
+Day 20200305 instance 2 region 173 training models has finished, and cost time of training models: 14.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 173 has finished! 
+Day 20200305 instance 2 region 174 traiming models is starting ! 
+Day 20200305 instance 2 region 174 training models has finished, and cost time of training models: 11.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 174 has finished! 
+Day 20200305 instance 2 region 175 traiming models is starting ! 
+Day 20200305 instance 2 region 175 training models has finished, and cost time of training models: 17.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 175 has finished! 
+Day 20200305 instance 2 region 176 traiming models is starting ! 
+Day 20200305 instance 2 region 176 training models has finished, and cost time of training models: 19.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 176 has finished! 
+Day 20200305 instance 2 region 177 traiming models is starting ! 
+Day 20200305 instance 2 region 177 training models has finished, and cost time of training models: 11.8s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 177 has finished! 
+Day 20200305 instance 2 region 178 traiming models is starting ! 
+Day 20200305 instance 2 region 178 training models has finished, and cost time of training models: 9.29s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 178 has finished! 
+Day 20200305 instance 2 region 179 traiming models is starting ! 
+Day 20200305 instance 2 region 179 training models has finished, and cost time of training models: 13.3s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 179 has finished! 
+Day 20200305 instance 2 region 180 traiming models is starting ! 
+Day 20200305 instance 2 region 180 training models has finished, and cost time of training models: 15.5s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 180 has finished! 
+Day 20200305 instance 2 region 181 traiming models is starting ! 
+Day 20200305 instance 2 region 181 training models has finished, and cost time of training models: 26.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 181 has finished! 
+Day 20200305 instance 2 region 182 traiming models is starting ! 
+Day 20200305 instance 2 region 182 training models has finished, and cost time of training models: 21.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 182 has finished! 
+Day 20200305 instance 2 region 183 traiming models is starting ! 
+Day 20200305 instance 2 region 183 training models has finished, and cost time of training models: 15.2s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 183 has finished! 
+Day 20200305 instance 2 region 184 traiming models is starting ! 
+Day 20200305 instance 2 region 184 training models has finished, and cost time of training models: 15.7s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 184 has finished! 
+Day 20200305 instance 2 region 185 traiming models is starting ! 
+Day 20200305 instance 2 region 185 training models has finished, and cost time of training models: 22.6s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 185 has finished! 
+Day 20200305 instance 2 region 186 traiming models is starting ! 
+Day 20200305 instance 2 region 186 training models has finished, and cost time of training models: 30.9s 
+start top selection! 
+start cluster! 
+start test predict 
+start combination! 
+Day 20200305 instance 2 region 186 has finished! 
+Day20200305 instance 2 has finished!
+Day20200305 instance 2 time cost：25303.51 s
